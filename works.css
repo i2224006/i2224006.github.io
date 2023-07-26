@@ -68,7 +68,7 @@ body{
  
 	/*　画面サイズが480px以下の場合ここの記述が適用される　*/
     body{
-        background-color: aqua;
+        background-color:#8EB8FF;
         margin: 0;
         padding: 0;
         width: 100%;
